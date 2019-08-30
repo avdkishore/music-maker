@@ -36,6 +36,15 @@ header p {
   height: 100px;
   width: 100px;
   flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.key {
+  color: white;
+  font-size: 24px;
+  font-weight: 800;
 }
 
 .pad1 {
