@@ -1,2 +1,2 @@
 # music-maker
-Click [here](https://avdkishore.github.io/music-maker)
+Click [here](https://avdkishore.github.io/music-maker?target=_blank)
