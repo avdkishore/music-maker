@@ -45,6 +45,7 @@ header p {
   color: white;
   font-size: 24px;
   font-weight: 800;
+  cursor: default;
 }
 
 .pad1 {
@@ -78,6 +79,10 @@ header p {
   border-radius: 50%;
   bottom: 0;
   z-index: -1;
+}
+
+.pads > div:hover {
+  transform: scale(1.2);
 }
 
 @keyframes jump {
